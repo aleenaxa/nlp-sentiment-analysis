@@ -1,5 +1,4 @@
-# Customer-sentiment-analysis
-# Customer Sentiment Analysis — NLP Group Project
+# Customer-sentiment-analysis-model
 
 Binary sentiment classification of customer reviews using TF-IDF vectorisation 
 and a Linear Support Vector Machine (SVM).
